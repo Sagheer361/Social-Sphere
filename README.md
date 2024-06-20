@@ -98,8 +98,6 @@ Frontend
 
 Check out the live website: [Social Sphere Live](https://social-sphere-frontend.vercel.app/)
 
-Watch our demo video: [Social Sphere Demo Video](https://youtu.be/9FuuCVTfQ7A?si=kQQQgAZXiuiL3H4-)
-
 ## Usage💻
 
 1. **Register and Sign In**: Create an account and sign in to access your personalized dashboard.
@@ -111,7 +109,7 @@ Watch our demo video: [Social Sphere Demo Video](https://youtu.be/9FuuCVTfQ7A?si
 
 ## Contact📧
 
-For any inquiries, please reach out to us at musttsum24@gmail.com
+For any inquiries, please reach out to us at sagheerahamed2340@gmail.com
 
 ---
 
